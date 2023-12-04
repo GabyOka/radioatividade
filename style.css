@@ -1,0 +1,148 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: url(imgs-cima-rodapé/fundo-em-cima.jpg);
+    padding: 80px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    background: rgb(250, 227, 123);
+    border-radius: 10px;
+}
+
+.tresriscos {
+    width: 4%;
+    margin: 0 0 5px 0;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 1000;
+    margin: 0 185px 0 190px;
+
+}
+
+.pessoa {
+    width: 6%;
+    margin: 0 0 0 0;
+}
+
+.pesquisa {
+    width: 4%;
+    margin: 0 0 5px 0;
+    cursor: pointer;
+}
+
+nav {
+    text-align: center;
+    margin: 0 0 0 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a:hover {
+    width: 20%;
+}
+
+.produtos {
+    width: 1240px;
+    margin: 5px auto;
+    padding: 50px 0;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 21%;
+    vertical-align: top;
+    background: rgb(255, 255, 255);
+    margin: 10px 1.5%;
+    padding: 30px 10px;
+    box-sizing: border-box;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+.produtos li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.produtos li:hover {
+    border-color: #dd1313;
+    border-width: 0.2cm;
+}
+
+.produtos li:active {
+    border-color: #4bd62f;
+}
+
+.produtos li:hover h2 {
+    font-size: 24px;
+}
+
+.produtos h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fotos {
+    width: 69%;
+    margin: 4px 0 4px 0;
+}
+
+.foto3 {
+    width: 75%;
+    margin: 6px 0 6px 0;
+}
+
+
+.foto4 {
+    width: 60%;
+    margin: 2px 0 3px 0;
+}
+
+.foto7 {
+    width: 62%;
+    margin: 3px 0 3px 0;
+}
+
+.foto8 {
+    width: 68%;
+    margin: 5px 0 6px 0;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url(imgs-cima-rodapé/fundo01.avif);
+    padding: 10px 0;
+}
+
+.logofundo {
+    width: 20%;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
