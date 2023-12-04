@@ -1,0 +1,175 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: url(imgs-cima-rodapé/fundo-em-cima.jpg);
+    padding: 80px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.tresriscos {
+    width: 4%;
+    margin: 0 0 5px 0;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 1000;
+    margin: 0 185px 0 190px;
+
+}
+
+.pessoa {
+    width: 6%;
+    margin: 0 0 0 0;
+}
+
+.pesquisa {
+    width: 4%;
+    margin: 0 0 5px 0;
+}
+
+nav {
+    text-align: center;
+    margin: 0 0 0 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a:hover {
+    width: 20%;
+}
+
+h1 {
+   text-align: center;
+   text-shadow: 0 0 0.2em rgb(255, 246, 119), 0 0 0.2em rgb(255, 246, 119), 0 0 0.2em rgb(255, 246, 119);
+   font-size: 40px;
+   margin: 20px 80px 20px 80px;
+}
+
+div {
+    display: inline;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 10px 160px 10px 80px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 10px 80px 10px 80px;
+    padding: 10px 25px;
+    width: 80%;
+}
+
+.produtos {
+    width: 1240px;
+    margin: 20px auto;
+    padding: 10px 0;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 9%;
+    vertical-align: top;
+    background: #ffffff;
+    margin: 2px 1.5%;
+    padding: 2px 2px;
+    box-sizing: border-box;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+.produtos li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.produtos li:hover {
+    border-color: #dd1313;
+    border-width: 0.2cm;
+}
+
+.produtos li:active {
+    border-color: #4bd62f;
+}
+
+.produtos li:hover h2 {
+    font-size: 16px;
+}
+
+.produtos h2 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.fotos {
+    width: 69%;
+    margin: 4px 0 4px 0;
+}
+
+.foto2 {
+    width: 60%;
+    margin: 1px 0 1px 0;
+}
+
+.foto3 {
+    width: 80%;
+    margin: 7px 0 7px 0;
+}
+
+.foto4 {
+    width: 60%;
+    margin: 1px 0 1px 0;
+}
+
+.foto6 {
+    width: 60%;
+    margin: 1px 0 1px 0;
+}
+
+
+.foto7 {
+    width: 60%;
+    margin: 1px 0 0 0;
+}
+
+.foto8 {
+    width: 68%;
+    margin: 4px 0 4px 0;
+}
+
+footer {
+    text-align: center;
+    background: url(imgs-cima-rodapé/fundo01.avif);
+    padding: 10px 0;
+}
+
+.logofundo {
+    width: 20%;
+}
+
+.copyright {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 13px;
+}
