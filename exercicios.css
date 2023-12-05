@@ -36,6 +36,7 @@ header {
 .pesquisa {
     width: 5.5%;
     margin: 0 0 0 0;
+    cursor: pointer;
 }
 
 nav {
