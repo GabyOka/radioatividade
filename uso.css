@@ -24,18 +24,18 @@ header {
     text-align: center;
     font-size: 45px;
     font-weight: 1000;
-    margin: 0 185px 0 190px;
+    margin: 0 180px 0 180px;
 
 }
 
 .pessoa {
-    width: 6%;
+    width: 5.5%;
     margin: 0 0 0 0;
 }
 
 .pesquisa {
-    width: 4%;
-    margin: 0 0 5px 0;
+    width: 5.5%;
+    margin: 0 0 0 0;
 }
 
 nav {
