@@ -18,7 +18,7 @@ header {
 .tresriscos {
     width: 4%;
     margin: 0 0 5px 0;
-    color: #FFFFFF;
+    filter: invert(100%);
 }
 
 .titulo {
@@ -33,14 +33,14 @@ header {
 .pessoa {
     width: 5.5%;
     margin: 0 0 0 0;
-    color: #FFFFFF;
+    filter: invert(100%);
 }
 
 .pesquisa {
     width: 5.5%;
     margin: 0 0 0 0;
     cursor: pointer;
-    color: #FFFFFF;
+    filter: invert(100%);
 }
 
 nav {
