@@ -11,6 +11,7 @@ header {
     position: relative;
     width: 940px;
     margin: 0 auto;
+    background: rgb(250, 227, 123);
     border-radius: 10px;
 }
 
@@ -41,7 +42,6 @@ header {
 nav {
     text-align: center;
     margin: 0 0 0 0;
-    background: rgb(250, 227, 123);
 }
 
 nav li {
